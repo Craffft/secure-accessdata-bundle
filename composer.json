@@ -1,6 +1,6 @@
 {
     "name": "craffft/secure-accessdata-bundle",
-    "type": "symfony-bundle",
+    "type": "contao-bundle",
     "description": "Contao 4 secure accessdata bundle",
     "keywords": ["password", "secure", "safe", "encrypted"],
     "license": "MIT",
